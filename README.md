@@ -6,4 +6,4 @@ Leopold, S., V. Zelenyuk, and S. Zhao (2023), Inference for Aggregate Efficiency
 
 The programming codes used in this paper involve some earlier codes from Paul Wilson. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact the authors.
 
-Author: Shirong Zhao; Email: shironz@163.com.
+Contact: Shirong Zhao; shironz@163.com.
