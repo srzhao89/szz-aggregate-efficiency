@@ -14,7 +14,7 @@ The authors (Leopold, Simar, Valentin Zelenyuk, and Shirong Zhao) retain full ri
 
 
 4. In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation:
-Leopold, S., V. Zelenyuk, and S. Zhao (2024), Inference for Aggregate Efficiency: Theory and Guidelines for Practitioners, European Journal of Operational Research, forthcoming.
+**Leopold, S., V. Zelenyuk, and S. Zhao (2024), Inference for Aggregate Efficiency: Theory and Guidelines for Practitioners, European Journal of Operational Research, forthcoming.**
 
 
 5. The programming code used in this paper involves some earlier codes from Paul Wilson. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
